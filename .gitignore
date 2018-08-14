@@ -1,0 +1,5 @@
+config.ini
+*.pyc
+*/__pycache__
+input_sql.txt
+output_sql.csv
